@@ -10,6 +10,6 @@ Python 3
 
 ###### Using Jupyter Notebook
 * If you haven't already, download and install Jupyter Notebook [here](https://jupyter.org/install)
-* Click on the *Primes-1-to-100.ipynb* file provided and click `raw`.
+* From the *Primes-1-to-100.ipynb* file provided click `raw` in the top right corner.
 * Save the code using **ctrl** + **s**, remove `.txt` from the file name before saving.
 * In Jupyter Notebook naviagte to where the file is saved and open it.
