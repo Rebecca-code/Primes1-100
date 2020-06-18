@@ -6,7 +6,7 @@ Python 3
 
 ## How to run
 ###### From an existing project
-Copy code from *Primes-1-to-100.ipynb* file provided in this repository and paste into an existing Python 3 project. The upper and lower bounds of the range for this code can be changed by altering the values in this line of code `for N in range(1, 100):`
+* Copy code from *Primes-1-to-100.ipynb* file provided in this repository and paste into an existing Python 3 project. The upper and lower bounds of the range for this code can be changed by altering the values in this line of code `for N in range(1, 100):`
 
 ###### Using Jupyter Notebook
 * If you haven't already, download and install Jupyter Notebook [here](https://jupyter.org/install)
